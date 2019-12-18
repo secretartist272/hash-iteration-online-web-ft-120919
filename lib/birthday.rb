@@ -23,8 +23,6 @@ def age_appropriate_birthday(birthday_kids)
       puts "Your to old for this."
     end
   end
- returns "Happy Birthday Timmy! You are now 9 years old!"
- returns "Happy Birthday Sarah! You are now 6 years old!"
- returns "You are too old for this."
+ "You are too old for this."
 end    
      
